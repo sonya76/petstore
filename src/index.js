@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import './components/Header.css';
+import './components/Nav.css';
 import './components/Sliders.css';
 import './components/Categories.css';
 import './components/HautFooter.css';
