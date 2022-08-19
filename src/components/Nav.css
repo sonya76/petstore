@@ -94,7 +94,7 @@ button[type="submit"]:focus,
     width: 200px;
   } */
 
-#headMenu a {
+#headMenu Link {
     font-family: "montserrat", Arial, Helvetica, sans-serif;
     text-decoration: none;
     /*  pas d'ffet
@@ -108,7 +108,7 @@ button[type="submit"]:focus,
     
   }
   
-#headMenu a:hover {
+#headMenu Link:hover {
     color: #9d5d35;
   }
   
